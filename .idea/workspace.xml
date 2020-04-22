@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a7a68fWlcZjkH7pHlaXo5jlNrG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +30,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -137,26 +142,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="655" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586090029831" />
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587553301227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587553301227" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1586090095696">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586090095696" />
-    <state width="1877" height="353" key="GridCell.Tab.0.bottom" timestamp="1587552427604">
+    <state width="1877" height="353" key="GridCell.Tab.0.bottom" timestamp="1587553355866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587552427604" />
-    <state width="1877" height="353" key="GridCell.Tab.0.center" timestamp="1587552427604">
+    <state width="1877" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587553355866" />
+    <state width="1877" height="353" key="GridCell.Tab.0.center" timestamp="1587553355866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587552427604" />
-    <state width="1877" height="353" key="GridCell.Tab.0.left" timestamp="1587552427604">
+    <state width="1877" height="353" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587553355866" />
+    <state width="1877" height="353" key="GridCell.Tab.0.left" timestamp="1587553355866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587552427604" />
-    <state width="1877" height="353" key="GridCell.Tab.0.right" timestamp="1587552427604">
+    <state width="1877" height="353" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587553355866" />
+    <state width="1877" height="353" key="GridCell.Tab.0.right" timestamp="1587553355866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="353" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587552427604" />
+    <state width="1877" height="353" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587553355866" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1586106074145">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

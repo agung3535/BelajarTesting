@@ -21,7 +21,6 @@ class BFSTest {
         NodeKota kotaB = new NodeKota("Kota B",kotaD,kotaE);
         NodeKota kotaA = new NodeKota("Kota A",kotaB,kotaC);
 
-        Main main = new Main();
 
         kotaA.leftChild = kotaB;
         kotaA.rightChild = kotaC;
